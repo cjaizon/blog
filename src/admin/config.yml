@@ -6,7 +6,7 @@ media_folder: '/public/assets/blog'
 public_folder: '/assets/blog'
 
 site_url: '../'
-display_url:
+display_url: default
 
 collections:
     - name: 'blog'
