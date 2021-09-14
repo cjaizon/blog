@@ -5,6 +5,9 @@ backend:
 media_folder: '/public/assets/blog'
 public_folder: '/assets/blog'
 
+site_url: '../'
+display_url:
+
 collections:
     - name: 'blog'
       label: 'Blog'
