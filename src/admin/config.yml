@@ -5,8 +5,8 @@ backend:
 media_folder: '/public/assets/blog'
 public_folder: '/assets/blog'
 
-site_url: '../'
-display_url: Home
+site_url: https://happy-ptolemy-5490b7.netlify.app
+display_url: https://happy-ptolemy-5490b7.netlify.app
 
 collections:
     - name: 'blog'
